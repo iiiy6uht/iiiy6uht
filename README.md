@@ -1,8 +1,8 @@
 # Привет меня завот Тимур
 ## Мои hard skills:
--python
--programs
--Flask,web разроботка
+- python
+- programs
+- Flask,web разроботка
 
 <!--
 **iiiy6uht/iiiy6uht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
